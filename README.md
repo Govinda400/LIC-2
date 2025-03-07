@@ -137,8 +137,8 @@ The performance is consistent with the other two circuits, with a reasonable vol
 ### **Conclusion:**
 All three circuits—the resistor-loaded, current-source-loaded, and simple current-source differential pairs—demonstrate the ability to amplify differential signals while rejecting common-mode noise. The use of a constant current source instead of resistors improves stability, gain, and overall performance, particularly in the current-source-loaded and simple current-source circuits.
 
-**Inference:**
-1. **Tail Resistor vs. Current Source:** Replacing the tail resistor with a current source improves amplifier stability and gain.
+## **Inference:**
+1. **Resistor vs. Current Source:** Replacing the resistor with a current source improves amplifier stability and gain.
 2. **Gain Consistency:** All three circuits show similar voltage gain, with minor variations due to practical implementation.
 3. **Common-Mode Rejection:** The circuits successfully reject common-mode signals, confirming their suitability for differential signal applications.
 4. **Transistor Saturation:** Ensuring that both transistors remain in saturation is essential for proper operation, and input voltages must be within an appropriate range.
