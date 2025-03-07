@@ -2,7 +2,7 @@
 ### **Differential Pair Amplifier: Overview and Analysis**
 
 #### **Introduction:**
-The differential pair amplifier, also known as the long-tailed pair, is a critical building block in analog electronics. It is extensively used in operational amplifiers (Op-Amps) and differential signal processing due to its ability to amplify the difference between two input signals while rejecting common-mode noise.
+The differential pair amplifier, also known as the long-tailed pair, is a commonly used pair and it finds its use in OPerstional amplifiers (Op-Amps) and differential signal processing due to its ability to amplify the difference between two input signals while rejecting common-mode noise.
 
 #### **Key Features:**
 - **Differential Gain:** The amplifier amplifies the difference between two input signals.
